@@ -1,6 +1,6 @@
 # Event Countdown Timer
 
-The "Event Countdown Timer" project is a unique application that allows users to create and track countdown timers for various events or occasions. It's built using HTML, CSS, and JavaScript, making it a perfect project for a solo developer looking to enhance their front-end skills.
+The "Event Countdown Timer" project is a unique application that allows users to create and track countdown timers for various events or occasions. It's built using HTML, CSS, and JavaScript.
 
 ## Features
 
